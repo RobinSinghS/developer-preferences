@@ -1,0 +1,12 @@
+[alias]
+	s=status
+	co=checkout
+	cob=checkout -b
+	s=status
+	a=add
+	aa=add --all
+	p=push
+	po=push origin
+	l=pull
+	lo=pull origin
+	d=diff
